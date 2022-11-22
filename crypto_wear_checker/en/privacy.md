@@ -1,15 +1,15 @@
 # Privacy Policy
 
 
-1. PERSONAL INFORMATION COLLECTED BY **
+1. PERSONAL INFORMATION COLLECTED BY CRYPTO WEAR CHECKER
 
-    
-    ** do not collect data from its user.
+
+    Crypto Wear Checker do not collect data from its user.
 
 
 2. INFORMATION THAT WE SHARE WITH THIRD PARTIES
 
-    
+
     We don't share information with any third parties.
 
 3. CONTACT US
